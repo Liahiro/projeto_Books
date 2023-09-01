@@ -1,0 +1,55 @@
+table{
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #01070f;
+    border-right: 1px solid rgba(128, 128, 128, 0.623);
+}
+
+th{
+    width: 1000px;
+    background-color: #595f68;
+    color: white;   
+    text-align: center;
+}
+
+td img{
+    max-width: 100px;
+}
+
+td{
+    width: 250px;
+    color: white;
+}
+
+#edit{
+    margin: auto;
+    background-color: #595f68;
+    color: white;
+}
+
+/* h1{
+    margin-left: 155px;
+} */
+
+#modo{
+    margin-left: 160px;
+    margin-bottom: 20px;
+    background-color: #595f68;
+    width: 10%;
+}
+
+#modo a{
+    color: white;
+    text-decoration: none;
+}
+
+#link{
+    color: white;
+    align-items: center;
+}

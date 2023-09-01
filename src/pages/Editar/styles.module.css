@@ -1,0 +1,36 @@
+.Container{
+    width: auto;
+}
+
+.booksFormGroup{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+.InputText{
+    display: flex;
+    height: 45px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 270px;
+    margin-bottom: 20px;
+    padding: 0 10px;
+    font-size: 16px;
+}
+Button{
+    display: inline-block;
+    margin-bottom: -60px;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    font-size: 14px;
+    padding: 8px 15px;
+    color: #fff;
+    background-color: rgb(66, 63, 63);
+    border-color: #6d6dec;
+    border-radius: 4px;
+}
+

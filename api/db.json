@@ -1,0 +1,82 @@
+{
+  "books": [
+    {
+      "id": 10,
+      "title": "Programação Web com Nodejs",
+      "img": "https://m.media-amazon.com/images/I/4110e7iseFL.jpg",
+      "price": "14,99",
+      "url": "https://www.luiztools.com.br/livro-node-amazon"
+    },
+    {
+      "id": 20,
+      "title": "Node.js e Microservices",
+      "img": "https://m.media-amazon.com/images/I/41CUCsnLPML.jpg",
+      "price": "14,99",
+      "url": "https://www.luiztools.com.br/livro-node-ii-amazon"
+    },
+    {
+      "id": 30,
+      "title": "MongoDB para Iniciantes",
+      "img": "https://m.media-amazon.com/images/I/31NR3RRS3VL.jpg",
+      "price": "11,99",
+      "url": "https://www.luiztools.com.br/livro-mongodb-amazon"
+    },
+    {
+      "title": "biblioteca da meia noite",
+      "price": "45.90",
+      "img": "https://m.media-amazon.com/images/I/51kAYMwbQIL._SX342_BO1,204,203,200_.jpg",
+      "url": "https://www.amazon.com.br/Biblioteca-Meia-Noite-Matt-Haig/dp/6558380544/ref=sr_1_1?keywords=biblioteca+da+meia+noite&qid=1692233891&sprefix=biblioteca%2Caps%2C237&sr=8-1",
+      "id": 31
+    },
+    {
+      "title": "Os Dois Morrem no Final",
+      "price": "41,99",
+      "img": "https://m.media-amazon.com/images/I/41P6S8wPiBL._SY498_BO1,204,203,200_.jpg",
+      "url": "https://www.amazon.com.br/Os-Dois-Morrem-No-Final/dp/655560302X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=38DB3FWYB8MF4&keywords=os+dois+morrem+no+final&qid=1692235510&sprefix=os+dois+morrem+no+final%2Caps%2C245&sr=8-1",
+      "id": 32
+    },
+    {
+      "title": "É Assim que Acaba",
+      "price": "50,99",
+      "img": "https://m.media-amazon.com/images/I/51i7kH+rh9L._SX322_BO1,204,203,200_.jpg",
+      "url": "https://www.amazon.com.br/Assim-que-Acaba-Colleen-Hoover/dp/8501112518/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=11USY4V51W03U&keywords=livros&qid=1692310133&sprefix=l%2Caps%2C2641&sr=8-6",
+      "id": 33
+    },
+    {
+      "title": "É assim que começa",
+      "price": "34,99",
+      "img": "https://m.media-amazon.com/images/I/51jiQtSEwDL._SX327_BO1,204,203,200_.jpg",
+      "url": "https://www.amazon.com.br/assim-que-come%C3%A7a-Vol-acaba/dp/6559811395/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=11USY4V51W03U&keywords=livros&qid=1692310288&sprefix=l%2Caps%2C2641&sr=8-5",
+      "id": 34
+    },
+    {
+      "title": "Harry Potter e a Pedra Filosofal: 1",
+      "price": "31,99",
+      "img": "https://m.media-amazon.com/images/I/41897yAI4LL._SX346_BO1,204,203,200_.jpg",
+      "url": "https://www.amazon.com.br/Harry-Potter-Pedra-Filosofal-Rowling/dp/8532530788/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TGQU9P6LRUQO&keywords=harry+potter&qid=1692310501&sprefix=harry+potter%2Caps%2C254&sr=8-6",
+      "id": 35
+    },
+    {
+      "title": "O diário perdido de Gravity falls",
+      "price": "72,45",
+      "img": "https://m.media-amazon.com/images/I/51uN2ogHfrL._SX370_BO1,204,203,200_.jpg",
+      "url": "https://www.amazon.com.br/Di%C3%A1rio-Perdido-Gravity-Falls/dp/8550303623/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3ABIKE6YQWJ9N&keywords=gravity+falls&qid=1692310568&sprefix=gravity+fall%2Caps%2C228&sr=8-5",
+      "id": 36
+    },
+    {
+      "title": "O Colecionador",
+      "price": "50,99",
+      "img": "https://m.media-amazon.com/images/I/41HiYQdgRVL._SX336_BO1,204,203,200_.jpg",
+      "url": "https://www.amazon.com.br/Colecionador-John-Fowles/dp/8594541082/ref=sr_1_35?crid=PS6M2WPVTSTN&keywords=livros&qid=1692313538&sprefix=%2Caps%2C338&sr=8-35",
+      "id": 37
+    },
+    {
+      "title": "Vermelho, branco e sangue azul",
+      "price": "55,40",
+      "img": "https://m.media-amazon.com/images/I/411iLYOnR1L.jpg",
+      "url": "https://www.amazon.com.br/Vermelho-branco-sangue-Casey-McQuiston-ebook/dp/B07XTQ5T5C/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=27RB3J1BMNSP1&keywords=livros&qid=1692914683&sprefix=livros%2Caps%2C241&sr=8-4",
+      "id": 38,
+      "image": "https://m.media-amazon.com/images/I/411iLYOnR1L.jpg"
+    }
+  ]
+}
